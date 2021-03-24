@@ -11,7 +11,7 @@ class Orderstatus(enum.Enum):
 class DB():
 
     def __init__(self):
-        self.dbobject
+        pass
 
     def fetchingrows():
         pass
